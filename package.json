@@ -1,0 +1,11 @@
+{
+  "name": "my-node.js-express-server",
+  "description": "Node.js server",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.13.4",
+    "mongodb": "^2.2.1",
+    "mongoose": "^4.5.4"
+  }
+}
